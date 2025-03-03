@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **software engineering as an undergraduate student**
 
-- 📫 How to reach me **osandamadugalle@gmail.com**
+- 📫 How to reach me **#**
 
 - 😄 Pronouns **he/him**
 
