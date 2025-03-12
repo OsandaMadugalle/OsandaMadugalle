@@ -34,4 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&locale=en&theme=dark" alt="osandamadugalle" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=osandamadugalle&theme=dark" alt="osandamadugalle" /></p>  
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=osandamadugalle&theme=dark" alt="osandamadugalle" /></p>  
