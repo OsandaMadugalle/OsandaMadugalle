@@ -28,8 +28,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=OsandaMadugalle&show_icons=true&locale=en&theme=dark" alt="OsandaMadugalle" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=OsandaMadugalle&show_icons=true&locale=en&theme=dark" alt="OsandaMadugalle" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OsandaMadugalle&theme=dark" alt="OsandaMadugalle" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OsandaMadugalle&theme=dark" alt="OsandaMadugalle" /></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
