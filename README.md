@@ -14,7 +14,7 @@
 
 - 👀 I’m interested in **software development**
 
-- 🌱 I’m currently learning **as an undergraduate student**
+- 🌱 I’m currently learning *JAVA**
 
 - 📫 How to reach me **#**
 
