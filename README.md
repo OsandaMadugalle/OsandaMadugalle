@@ -12,7 +12,7 @@
 
 ---
 
-- 👀 I’m interested in **software development**
+- 👀 I’m interested in **Coding**
 
 - 🌱 I’m currently learning **JAVA**
 
