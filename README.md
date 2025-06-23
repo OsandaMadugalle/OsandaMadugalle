@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **osandamadugalle@gmail.com**
 
-- 😄 Pronouns **he/him**
-
 - ⚡ Fun fact **I love debugging more than coding—sometimes!**
 
 ---
