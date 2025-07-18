@@ -65,6 +65,31 @@ Check out my Microsoft Learn achievements and certifications:
 
 ---
 
+### 🧠 freeCodeCamp Profile
+
+Explore my freeCodeCamp certifications and coding challenges:
+
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-View%20Profile-0A0A23?style=for-the-badge&logo=freeCodeCamp&logoColor=white)](https://www.freecodecamp.org/osandamadugalle)
+
+---
+
+### ☁️ Google Cloud Skills Boost
+
+See my hands-on labs and cloud learning progress:
+
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5)
+
+---
+
+### 🛡️ Credly Certifications
+
+Browse my verified digital badges and certifications:
+
+[![Credly](https://img.shields.io/badge/Credly-Badges-orange?style=for-the-badge&logo=credly)](https://www.credly.com/users/osandamadugalle/badges)
+
+---
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
