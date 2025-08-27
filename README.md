@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://github.com/osandamadugalle">
     <div align="center">
-      <img src="https://img.shields.io/github/stars/osandamadugalle?style=social" alt="GitHub Stars" /><br>
-      <img src="https://img.shields.io/github/forks/osandamadugalle?style=social" alt="GitHub Forks" />
+      <img src="https://img.shields.io/github/stars/osandamadugalle?style=social" alt="GitHub Stars" />
+      <img src="https://img.shields.io/github/forks/osandamadugalle/osandamadugalle?style=social" alt="GitHub Forks" />
     </div>
   </a>
 </p>
