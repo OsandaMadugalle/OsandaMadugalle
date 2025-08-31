@@ -39,14 +39,8 @@
   <a href="https://linkedin.com/in/osandamadugalle" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:osandamadugalle@gmail.com" target="_blank">
+  <a href="mailto:madugalleod@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="30" />
-  </a>
-  <a href="https://www.instagram.com/osandamadugalle" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/osandamadugalle" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
