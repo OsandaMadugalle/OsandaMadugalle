@@ -28,7 +28,7 @@
 
  - 🌱 Currently diving deep into the **MERN Stack** 
 - 💬 Ask me anything about **Java** — it's my favorite language!
-- 📫 Reach me at: **osandamadugalle@gmail.com**
+- 📫 Reach me at: **madugalleod@gmail.com**
 - ⚡ Fun fact: I enjoy **debugging more than coding**—yes, really!
 
 ---
