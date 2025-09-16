@@ -91,14 +91,6 @@ See my hands-on labs and cloud learning progress:
 </div>
 
 <div align="center">
-  <!-- Profile Summary Cards (modern chart) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osandamadugalle&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osandamadugalle&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osandamadugalle&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osandamadugalle&theme=github_dark&utcOffset=8" />
-</div>
-
-<div align="center">
   <!-- GitHub Languages Pie Chart (fallback to compact layout if pie breaks) -->
   <a href="https://github.com/osandamadugalle">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandamadugalle&layout=compact&theme=dark" alt="Languages" />
