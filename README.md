@@ -1,109 +1,170 @@
-<h1 align="center">Hi 👋, I'm Osanda Madugalle</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Passionate About DevOps & Automation | Java Fanatic</h3>
+# Osanda Madugalle
+
+**Data Science Learner** | **Full-Stack Developer** | **DevOps Enthusiast**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/osandamadugalle)
+[![Email](https://img.shields.io/badge/Email-madugalleod@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:madugalleod@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=osandamadugalle&style=flat-square&color=brightgreen)](https://github.com/osandamadugalle)
+
+---
+
+## About Me
+
+I'm a passionate data scientist specializing in extracting insights from complex datasets and building predictive models. With strong full-stack development skills and self-taught DevOps expertise, I bridge the gap between data science and software engineering to deliver end-to-end solutions.
+
+**Current Focus:**
+- 🔬 Developing machine learning models and data analytics solutions
+- 🔭 Building full-stack applications with the MERN stack
+- 🌱 Self-studying DevOps practices and cloud technologies
+- 💡 Contributing to open-source data science projects
+- 📚 Continuous learning in AI/ML and modern software architecture
+
+---
+
+## Technical Expertise
+
+### Data Science & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+
+### DevOps & Cloud (Self-Taught)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## Professional Development
+
+### Microsoft Learn Profile
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-View%20Profile-0078D4?style=flat-square&logo=microsoft)](https://learn.microsoft.com/users/osandamadugalle/)
+
+Actively pursuing Microsoft certifications and completing hands-on learning paths in cloud technologies and software development.
+
+### Google Cloud Skills Boost
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5)
+
+Hands-on experience with Google Cloud Platform through practical labs and skill-building exercises.
+
+---
+
+## Featured Projects
+
+### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka)
+**Tech Stack:** MongoDB, Express.js, React, Node.js (MERN Stack), Postman API  
+**Project Type:** Y2S2 Group Project (5-member team)  
+A comprehensive wildlife safari management system designed to support conservation efforts in Sri Lanka. This full-stack MERN application features wildlife tracking, conservation data visualization, and collaborative tools for researchers and safari operators.
+
+**Key Features:**
+- Complete safari booking and management system
+- Wildlife tracking and monitoring dashboard
+- Conservation data visualization and reporting
+- Secure environment variable configuration
+- Collaborative development with 5 team members
+- RESTful API development and testing with Postman
+
+### 🎮 [PlayPal App](https://github.com/OsandaMadugalle/PlayPal_App)
+**Tech Stack:** Flutter, Firebase, Android Studio, Figma  
+**Project Type:** Mobile Wellness Application  
+A gamified wellness app that transforms healthy habits into engaging challenges. Features step tracking, habit building, focus sessions, and achievement systems with a modern dark theme UI/UX design.
+
+**Key Features:**
+- Cross-platform mobile development with Flutter
+- Real-time data management with Firebase/Firestore
+- Custom UI/UX design with gamification elements
+- Comprehensive wellness tracking (steps, habits, BMI, focus sessions)
+- Professional mobile app architecture and development
+
+*More projects available in my [repositories](https://github.com/osandamadugalle?tab=repositories)*
+
+---
+
+## GitHub Statistics & Activity
 
 <div align="center">
-  <!-- Visitors Counter -->
-  <img src="https://komarev.com/ghpvc/?username=osandamadugalle&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<!-- 🏆 Trophy section (official fallback badge) -->
-<p align="center">
-  <a href="https://github.com/osandamadugalle">
-    <div align="center">
-      <img src="https://img.shields.io/github/stars/osandamadugalle?style=social" alt="GitHub Stars" />
-      <img src="https://img.shields.io/github/forks/osandamadugalle/osandamadugalle?style=social" alt="GitHub Forks" />
-    </div>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
- - 🌱 Currently diving deep into the **MERN Stack** 
-- 💬 Ask me anything about **Java** — it's my favorite language!
-- 📫 Reach me at: **madugalleod@gmail.com**
-- ⚡ Fun fact: I enjoy **debugging more than coding**—yes, really!
-
----
-
-## 🛠️ Languages & Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</div>
-
----
-
-## 🎓 Microsoft Learn Profile
-
-Check out my Microsoft Learn achievements and certifications:
-
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-View%20Profile-blue?style=for-the-badge&logo=microsoft)](https://learn.microsoft.com/users/osandamadugalle/)
-
----
-
-## ☁️ Google Cloud Skills Boost
-
-See my hands-on labs and cloud learning progress:
-
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5)
-
----
-
-## 📈 GitHub Activity & Insights
-
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osandamadugalle&theme=github-compact" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osandamadugalle&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 <div align="center">
-  <!-- Streak Chart fallback: shows badge if image fails -->
-  <a href="https://github.com/osandamadugalle">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=osandamadugalle&theme=dark" alt="GitHub Streak" onerror="this.onerror=null;this.src='https://img.shields.io/badge/GitHub%20Streak-View%20on%20profile-blue?style=for-the-badge';" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <!-- GitHub Languages Pie Chart (fallback to compact layout if pie breaks) -->
-  <a href="https://github.com/osandamadugalle">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandamadugalle&layout=compact&theme=dark" alt="Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandamadugalle&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osandamadugalle&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
+
+### Contribution Activity
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osandamadugalle&theme=github_dark" alt="Profile Summary" />
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osandamadugalle&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+### Contribution Heatmap
+<div align="center">
+  <img src="https://ghchart.rshah.org/osandamadugalle" alt="Contribution Chart" />
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing technology, collaboration opportunities, and innovative projects. Feel free to reach out!
+
+- 📧 **Email:** madugalleod@gmail.com
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/osandamadugalle)
+- 🌐 **Portfolio:** [View my work](https://github.com/osandamadugalle)
+
+---
+
+*"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
