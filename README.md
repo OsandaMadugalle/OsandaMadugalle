@@ -10,20 +10,20 @@
 
 ## About Me
 
-I'm a passionate data scientist specializing in extracting insights from complex datasets and building predictive models. With strong full-stack development skills and self-taught DevOps expertise, I bridge the gap between data science and software engineering to deliver end-to-end solutions.
+I'm a passionate data science learner with strong full-stack development skills and self-taught DevOps knowledge. Currently building my foundation in machine learning and data analytics while leveraging my development experience to create end-to-end data-driven solutions.
 
 **Current Focus:**
-- 🔬 Developing machine learning models and data analytics solutions
-- 🔭 Building full-stack applications with the MERN stack
+- 🔬 Building foundational knowledge in machine learning and statistical analysis
+- 🔭 Developing full-stack applications with the MERN stack
 - 🌱 Self-studying DevOps practices and cloud technologies
-- 💡 Contributing to open-source data science projects
-- 📚 Continuous learning in AI/ML and modern software architecture
+- 💡 Working on beginner-friendly data science projects
+- 📚 Continuous learning through hands-on practice and online courses
 
 ---
 
 ## Technical Expertise
 
-### Data Science & Machine Learning
+### Data Science & Machine Learning (Learning)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -54,7 +54,7 @@ I'm a passionate data scientist specializing in extracting insights from complex
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
-### DevOps & Cloud (Self-Taught)
+### DevOps & Cloud (Self-Learning)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
@@ -62,9 +62,10 @@ I'm a passionate data scientist specializing in extracting insights from complex
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -90,10 +91,10 @@ Hands-on experience with Google Cloud Platform through practical labs and skill-
 
 ## Featured Projects
 
-### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka)
+### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) *(Active Development)*
 **Tech Stack:** MongoDB, Express.js, React, Node.js (MERN Stack), Postman API  
 **Project Type:** Y2S2 Group Project (5-member team)  
-A comprehensive wildlife safari management system designed to support conservation efforts in Sri Lanka. This full-stack MERN application features wildlife tracking, conservation data visualization, and collaborative tools for researchers and safari operators.
+A comprehensive wildlife safari management system designed to support conservation efforts in Sri Lanka. This full-stack MERN application features wildlife tracking, conservation data visualization, and collaborative tools for researchers and safari operators. Currently enhancing features and functionality.
 
 **Key Features:**
 - Complete safari booking and management system
@@ -102,14 +103,15 @@ A comprehensive wildlife safari management system designed to support conservati
 - Secure environment variable configuration
 - Collaborative development with 5 team members
 - RESTful API development and testing with Postman
+- *Additional features in active development*
 
-### 🎮 [PlayPal App](https://github.com/OsandaMadugalle/PlayPal_App)
-**Tech Stack:** Flutter, Firebase, Android Studio, Figma  
-**Project Type:** Mobile Wellness Application  
-A gamified wellness app that transforms healthy habits into engaging challenges. Features step tracking, habit building, focus sessions, and achievement systems with a modern dark theme UI/UX design.
+### 🎮 [PlayPal App](https://github.com/OsandaMadugalle/PlayPal_App) *(Private - In Development)*
+**Tech Stack:** Android Studio, Java/Kotlin, Firebase, Figma  
+**Project Type:** Personal Mobile Wellness Application  
+A gamified wellness app currently under development that transforms healthy habits into engaging challenges. Features step tracking, habit building, focus sessions, and achievement systems with a custom-designed UI/UX.
 
-**Key Features:**
-- Cross-platform mobile development with Flutter
+**Key Features (In Development):**
+- Native Android development with Android Studio
 - Real-time data management with Firebase/Firestore
 - Custom UI/UX design with gamification elements
 - Comprehensive wellness tracking (steps, habits, BMI, focus sessions)
