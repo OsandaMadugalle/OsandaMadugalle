@@ -105,6 +105,21 @@ A comprehensive wildlife safari management system designed to support conservati
 - RESTful API development and testing with Postman
 - *Additional features in active development*
 
+### 🛒 [Online Grocery Ordering System](https://github.com/OsandaMadugalle/online-grocery-ordering-system)
+**Tech Stack:** Java, JSP/Servlets, MySQL, Bootstrap, Apache Tomcat  
+**Project Type:** Personal Full-Stack Web Application  
+A full-stack web app for online grocery shopping. Features include product catalog, shopping cart, order placement, user authentication, admin and inventory management dashboards, and delivery management. Demonstrates backend, database, and UI skills.
+
+**Key Features:**
+- Product catalog with dynamic category browsing
+- Shopping cart with real-time quantity management
+- Secure user registration and authentication
+- Order placement, tracking, and history
+- Admin dashboard for product, inventory, and delivery management
+- Inventory manager role for stock and product data oversight
+- Responsive design using Bootstrap
+- MySQL-backed database (schema included)
+
 ### 🎮 [PlayPal App](https://github.com/OsandaMadugalle/PlayPal_App) *(Private - In Development)*
 **Tech Stack:** Android Studio, Java/Kotlin, Firebase, Figma  
 **Project Type:** Personal Mobile Wellness Application  
