@@ -22,7 +22,7 @@ I'm a passionate data science learner with strong full-stack development skills 
 ---
 
 ## Technical Expertise
-
+<!--
 ### Data Science & Machine Learning (Learning)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -30,7 +30,7 @@ I'm a passionate data science learner with strong full-stack development skills 
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
+-->
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -53,14 +53,14 @@ I'm a passionate data science learner with strong full-stack development skills 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-
+<!--
 ### DevOps & Cloud (Self-Learning)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
+-->
 ### Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -104,21 +104,6 @@ A comprehensive wildlife safari management system designed to support conservati
 - Collaborative development with 5 team members
 - RESTful API development and testing with Postman
 - *Additional features in active development*
-
-### 🛒 [Online Grocery Ordering System](https://github.com/OsandaMadugalle/online-grocery-ordering-system)
-**Tech Stack:** Java, JSP/Servlets, MySQL, Bootstrap, Apache Tomcat  
-**Project Type:** Personal Full-Stack Web Application  
-A full-stack web app for online grocery shopping. Features include product catalog, shopping cart, order placement, user authentication, admin and inventory management dashboards, and delivery management. Demonstrates backend, database, and UI skills.
-
-**Key Features:**
-- Product catalog with dynamic category browsing
-- Shopping cart with real-time quantity management
-- Secure user registration and authentication
-- Order placement, tracking, and history
-- Admin dashboard for product, inventory, and delivery management
-- Inventory manager role for stock and product data oversight
-- Responsive design using Bootstrap
-- MySQL-backed database (schema included)
 
 ### 🎮 [PlayPal App](https://github.com/OsandaMadugalle/PlayPal_App) *(Private - In Development)*
 **Tech Stack:** Android Studio, Java/Kotlin, Firebase, Figma  
