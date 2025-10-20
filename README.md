@@ -92,18 +92,20 @@ Hands-on experience with Google Cloud Platform through practical labs and skill-
 ## Featured Projects
 
 ### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) *(Active Development)*
-**Tech Stack:** MongoDB, Express.js, React, Node.js (MERN Stack), Postman API  
-**Project Type:** Y2S2 Group Project (5-member team)  
-A comprehensive wildlife safari management system designed to support conservation efforts in Sri Lanka. This full-stack MERN application features wildlife tracking, conservation data visualization, and collaborative tools for researchers and safari operators. Currently enhancing features and functionality.
+**Live Site:** [wildlanka.vercel.app](https://wildlanka.vercel.app)  
+**Tech Stack:** MongoDB, Express.js, React, Node.js (MERN Stack), Postman  
+**Topics:** Wildlife  
+**Last Updated:** 2025-10-19
+
+WildLanka aims to provide a digital platform for wildlife tracking and conservation as part of the Year 2 Semester 2 (Y2S2) university project.
 
 **Key Features:**
-- Complete safari booking and management system
-- Wildlife tracking and monitoring dashboard
-- Conservation data visualization and reporting
-- Secure environment variable configuration
-- Collaborative development with 5 team members
-- RESTful API development and testing with Postman
-- *Additional features in active development*
+- Safari booking & management
+- Wildlife tracking dashboard
+- Conservation data visualization
+- RESTful API and Postman tests
+- Secure environment variables
+- Team collaboration
 
 ### 🎮 [PlayPal App](https://github.com/OsandaMadugalle/PlayPal_App) *(Private - In Development)*
 **Tech Stack:** Android Studio, Java/Kotlin, Firebase, Figma  
