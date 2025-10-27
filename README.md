@@ -1,18 +1,18 @@
-# Osanda Madugalle
-
 <div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Data+Science+Learner;DevOps+Enthusiast;Building+Innovative+Solutions)](https://git.io/typing-svg)
 
-  **Transforming ideas into elegant, scalable applications**
+# 👋 Hello, I'm **Osanda Madugalle**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osandamadugalle)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madugalleod@gmail.com)
-  [![Profile Views](https://komarev.com/ghpvc/?username=osandamadugalle&style=for-the-badge&color=3B82F6)](https://github.com/osandamadugalle)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Data+Science+Learner;DevOps+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 
-</div>
+### 🚀 **Transforming ideas into elegant, scalable applications**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osandamadugalle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madugalleod@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=osandamadugalle&style=for-the-badge&color=3B82F6)](https://github.com/osandamadugalle)
 
 ---
+
+</div>
 
 ## 👨‍💻 About Me
 
