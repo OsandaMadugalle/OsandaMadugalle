@@ -1,106 +1,92 @@
 <div align="center">
 
-# 👋 Hello, I'm **Osanda Madugalle**
+# Osanda Madugalle
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Data+Science+Learner;DevOps+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Data+Science+Enthusiast;Cloud+%26+DevOps+Learner" alt="Typing SVG" />
 
-### 🚀 **Transforming ideas into elegant, scalable applications**
+### Building scalable, data-driven solutions
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-osandamadugalle.me-3B82F6?style=for-the-badge)](https://osandamadugalle.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osandamadugalle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osandamadugalle@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=osandamadugalle&style=for-the-badge&color=3B82F6)](https://github.com/osandamadugalle)
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-osandamadugalle.me-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://osandamadugalle.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osandamadugalle)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osandamadugalle@gmail.com)
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** with expertise in building scalable web applications and native Android mobile solutions. Currently expanding my knowledge in **Data Science** and **DevOps** practices to build comprehensive, end-to-end solutions.
+Full-Stack Developer specializing in building scalable web applications and native Android solutions. Currently expanding expertise in Data Science and DevOps to deliver comprehensive, end-to-end technical solutions.
 
 ```javascript
-const osanda = {
+const profile = {
     location: "Sri Lanka 🇱🇰",
-    website: "https://osandamadugalle.me",
-    code: ["JavaScript", "Java", "Python", "Kotlin", "PHP", "C++"],
-    expertise: {
-        frontend: ["React", "TailwindCSS", "Framer Motion", "HTML5", "CSS3"],
+    role: "Full-Stack Developer",
+    focus: ["Web Development", "Mobile Apps", "Data Science", "Cloud & DevOps"],
+    
+    techStack: {
+        frontend: ["React", "JavaScript", "HTML5", "CSS3", "TailwindCSS"],
         backend: ["Node.js", "Express.js", "PHP", "Java"],
-        mobile: ["Android Studio", "Native Android Development"],
+        mobile: ["Android (Java/Kotlin)", "Android Studio"],
         database: ["MongoDB", "MySQL", "MS SQL Server"],
-        dataScience: ["Python", "NumPy", "Pandas", "Scikit-Learn", "Learning ML"],
-        devOps: ["Docker", "Git", "Linux", "Self-Learning Cloud"],
-        tools: ["Git", "Postman", "Figma", "Jupyter"]
+        dataScience: ["Python", "Pandas", "NumPy", "Scikit-Learn"],
+        devOps: ["Docker", "Git", "Linux", "AWS (Learning)"],
+        tools: ["Postman", "Figma", "VS Code", "Jupyter"]
     },
-    currentFocus: [
-        "Building full-stack applications with modern technologies",
-        "Learning Data Science & Machine Learning fundamentals", 
-        "Exploring DevOps practices and containerization"
-    ],
-    architecture: ["MVC", "REST APIs", "Microservices"],
-    passion: "Creating data-driven solutions that make a difference"
+    
+    interests: [
+        "Building production-ready applications",
+        "Machine Learning & AI integration",
+        "Cloud architecture & containerization",
+        "Responsive UI/UX design"
+    ]
 };
 ```
 
-**Current Focus:**
-- 🚀 Building production-ready full-stack applications
-- 📱 Developing native Android applications
-- 📊 Learning Data Science, Machine Learning & Statistical Analysis
-- 🐳 Self-studying DevOps practices (Docker, CI/CD, Cloud)
-- 🌐 Mastering modern web technologies and best practices
-- 🎨 Creating seamless user experiences with responsive design
-
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### **Backend Development**
+**Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Mobile Development**
+**Mobile Development**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### **Database & Cloud**
+**Database**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### **Data Science & ML (Learning)**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Data Science & ML**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### **DevOps & Cloud (Self-Learning)**
+**DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### **Tools & Platforms**
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -108,103 +94,80 @@ const osanda = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka)
-**Wildlife Safari Management System**
+### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) - Wildlife Safari Management System
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square)
+![EmailJS](https://img.shields.io/badge/EmailJS-0078D4?style=flat-square)
+![ImgBB](https://img.shields.io/badge/ImgBB-00A8E8?style=flat-square)
 
-A comprehensive wildlife safari management platform featuring smart booking, wildlife photo marketplace with live bidding, AI chatbot with trilingual support, and secure payment processing.
+Comprehensive wildlife safari management platform with real-time booking, photo marketplace with live bidding system, AI-powered trilingual chatbot, and secure payment processing via Stripe integration. Features EmailJS for email notifications and ImgBB for image hosting.
 
-**Key Features:**
-- 🎯 Real-time booking system
-- 📸 Photo marketplace with bidding
-- 🤖 AI-powered trilingual chatbot
-- 💳 Stripe payment integration
-- 📊 Analytics dashboard
+**Key Features:** Real-time booking system • Photo marketplace with bidding • AI trilingual chatbot • Payment integration • Email notifications • Image hosting • Analytics dashboard
 
-[View Project →](https://github.com/OsandaMadugalle/WildLanka)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://wild-lanka.vercel.app)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsandaMadugalle/WildLanka)
 
-</td>
-<td width="50%">
+---
 
-### 💪 [Wellness Pro](https://github.com/OsandaMadugalle/Wellness_Pro)
-**Daily Wellness Tracker**
+### 💪 [Wellness Pro](https://github.com/OsandaMadugalle/Wellness_Pro) - Daily Wellness Tracker
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
-![Room](https://img.shields.io/badge/Room-DB-4285F4?style=flat-square)
+![Room](https://img.shields.io/badge/Room_DB-4285F4?style=flat-square)
 
-Native Android wellness application for comprehensive daily health tracking with mood journaling, habit tracking, hydration monitoring, and smart reminders.
+Native Android application for comprehensive health tracking with mood journaling, habit tracking, hydration monitoring, and smart reminder system.
 
-**Key Features:**
-- 📝 Mood journal with history
-- ✅ Habit tracker with streaks
-- 💧 Hydration monitor
-- ⏰ Smart reminders
-- 📊 Progress analytics
-
-[View Project →](https://github.com/OsandaMadugalle/Wellness_Pro)
-
-</td>
-</tr>
-</table>
+**Key Features:** Mood journal with history • Habit tracker with streaks • Hydration monitor • Smart reminders • Progress analytics
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osandamadugalle&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandamadugalle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=osandamadugalle&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandamadugalle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🎓 Continuous Learning
+## 🎓 Certifications & Learning
 
 <div align="center">
 
-### Microsoft Learn
-*Pursuing Microsoft certifications in cloud technologies and software development*
+### Certifications
 
-[![Microsoft Learn Profile](https://img.shields.io/badge/View_Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/users/osandamadugalle/)
+<a href="https://www.credly.com/badges/35b5059e-5ba2-43a3-8062-c14dbfd5c818">
+  <img src="https://res.cloudinary.com/dmsztvvci/image/upload/v1763983325/badge-well-architected-proficient_udu8fj.png" alt="AWS Well-Architected Proficient" width="150">
+</a>
 
-### Google Cloud Skills Boost
-*Hands-on experience with Google Cloud Platform through practical labs*
+[![View All Badges](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/osandamadugalle)
 
-[![Google Cloud Profile](https://img.shields.io/badge/View_Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5)
+---
+
+### Continuous Learning
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/users/osandamadugalle/)
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5)
 
 </div>
 
+---
 
-
-## 🌐 Connect With Me
+## 📬 Let's Connect
 
 <div align="center">
 
-**Let's build something amazing together!**
+**Open to freelance projects, collaborations, and innovative opportunities**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-3B82F6?style=for-the-badge)](https://osandamadugalle.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://osandamadugalle.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/osandamadugalle)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:osandamadugalle@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/osandamadugalle)
-
-### 📬 Open For
-
-💼 Freelance Projects • 🤝 Collaborations • 💡 Innovative Ideas  
-📊 Data Science Discussions • 🐳 DevOps Best Practices • 🚀 Tech Talks
+[![Email](https://img.shields.io/badge/Email-osandamadugalle@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:osandamadugalle@gmail.com)
 
 </div>
 
@@ -212,12 +175,8 @@ Native Android wellness application for comprehensive daily health tracking with
 
 <div align="center">
 
-**Building the future, one commit at a time** 🚀
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer)
 
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer)
-
-**⭐ From [Osanda Madugalle](https://github.com/osandamadugalle) | Crafted with passion and precision**
+**⭐ Star my repositories if you find them useful!**
 
 </div>
