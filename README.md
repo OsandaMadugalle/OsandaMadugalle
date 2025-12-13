@@ -25,7 +25,7 @@ const profile = {
     focus: ["Web Development", "Mobile Apps", "Data Science", "Cloud & DevOps"],
     
     techStack: {
-        frontend: ["React", "JavaScript", "HTML5", "CSS3", "TailwindCSS"],
+        frontend: ["React", "TypeScript", "JavaScript", "HTML5", "CSS3", "TailwindCSS"],
         backend: ["Node.js", "Express.js", "PHP", "Java"],
         mobile: ["Android (Java/Kotlin)", "Android Studio"],
         database: ["MongoDB", "MySQL", "MS SQL Server"],
@@ -51,6 +51,7 @@ const profile = {
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -59,6 +60,7 @@ const profile = {
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -94,6 +96,25 @@ const profile = {
 
 ## 🚀 Featured Projects
 
+### 🍽️ [Savoria Bistro](https://github.com/OsandaMadugalle/savoria-bistro) - AI-Powered Restaurant Management Platform
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google)
+
+A comprehensive full-stack restaurant management system with AI-powered features, multi-role support, and real-time operations. Features Google Gemini AI Chef for personalized menu recommendations and dietary assistance, secure payment processing, and advanced analytics dashboard.
+
+**Key Features:** Multi-role system (customers, staff, admins, riders) • AI Chef (Google Gemini) for menu recommendations • Real-time order tracking & delivery • Stripe payment integration • Reservation system • Advanced analytics dashboard • Stock management • Cloudinary image hosting
+
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, JWT, Stripe, Cloudinary, Google Gemini API
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://savoria-bistro.vercel.app/)
+
+---
+
 ### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) - Wildlife Safari Management System
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
@@ -121,16 +142,31 @@ Native Android application for comprehensive health tracking with mood journalin
 
 **Key Features:** Mood journal with history • Habit tracker with streaks • Hydration monitor • Smart reminders • Progress analytics
 
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsandaMadugalle/Wellness_Pro)
+
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osandamadugalle&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+### 📈 Profile Overview
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandamadugalle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osandamadugalle&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandamadugalle&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="450" />
+
+### 🏆 GitHub Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osandamadugalle&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
+
+### 📊 Contribution Stats
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osandamadugalle&theme=tokyonight" alt="Productive Time" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osandamadugalle&theme=tokyonight" alt="Stats" width="45%" />
 
 </div>
 
@@ -140,20 +176,78 @@ Native Android application for comprehensive health tracking with mood journalin
 
 <div align="center">
 
-### Certifications
+### 🏅 Professional Certifications
 
+<table>
+<tr>
+<td align="center" width="200">
 <a href="https://www.credly.com/badges/35b5059e-5ba2-43a3-8062-c14dbfd5c818">
-  <img src="https://res.cloudinary.com/dmsztvvci/image/upload/v1763983325/badge-well-architected-proficient_udu8fj.png" alt="AWS Well-Architected Proficient" width="150">
+  <img src="https://res.cloudinary.com/dmsztvvci/image/upload/v1763983325/badge-well-architected-proficient_udu8fj.png" alt="AWS Well-Architected Proficient" width="120">
+  <br/>
+  <sub><b>AWS Well-Architected<br/>Proficient</b></sub>
 </a>
+</td>
+</tr>
+</table>
 
 [![View All Badges](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/osandamadugalle)
 
 ---
 
-### Continuous Learning
+### 📚 Continuous Learning Platforms
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/users/osandamadugalle/)
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5)
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://learn.microsoft.com/users/osandamadugalle/">
+<img src="https://img.icons8.com/fluency/96/000000/microsoft.png" alt="Microsoft Learn" width="80"/>
+<br/>
+<b>Microsoft Learn</b>
+<br/>
+<sub>Cloud Computing & Azure Services</sub>
+</a>
+<br/><br/>
+<a href="https://learn.microsoft.com/users/osandamadugalle/">
+<img src="https://img.shields.io/badge/Profile-Visit-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Profile"/>
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5">
+<img src="https://img.icons8.com/color/96/000000/google-cloud.png" alt="Google Cloud" width="80"/>
+<br/>
+<b>Google Cloud Skills Boost</b>
+<br/>
+<sub>GCP & Cloud Technologies</sub>
+</a>
+<br/><br/>
+<a href="https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5">
+<img src="https://img.shields.io/badge/Profile-Visit-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Profile"/>
+</a>
+</td>
+</tr>
+</table>
+
+### 🎯 Learning Focus Areas
+
+```mermaid
+mindmap
+  root((Learning Journey))
+    Cloud & DevOps
+      AWS Solutions
+      Azure Services
+      GCP Platform
+      Docker & Kubernetes
+    Data Science
+      Machine Learning
+      Deep Learning
+      Data Analytics
+      AI Integration
+    Full-Stack Development
+      Advanced React Patterns
+      Microservices Architecture
+      System Design
+      Performance Optimization
+```
 
 </div>
 
