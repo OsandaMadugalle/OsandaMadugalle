@@ -25,13 +25,16 @@ const profile = {
     focus: ["Web Development", "Mobile Apps", "Data Science", "Cloud & DevOps"],
     
     techStack: {
-        frontend: ["React", "TypeScript", "JavaScript", "HTML5", "CSS3", "TailwindCSS"],
-        backend: ["Node.js", "Express.js", "PHP", "Java"],
-        mobile: ["Android (Java/Kotlin)", "Android Studio"],
+        languages: ["TypeScript", "JavaScript", "Java", "Python", "Kotlin", "PHP", "C++"],
+        frontend: ["React", "Vite", "Tailwind CSS", "Recharts", "Framer Motion", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express.js", "Mongoose", "JWT", "Nodemailer", "PHP", "Java", "Spring Boot"],
+        mobile: ["Android Studio", "Native Android Development", "Kotlin"],
         database: ["MongoDB", "MySQL", "MS SQL Server"],
+        cloud: ["Cloudinary", "Google Gemini API", "AWS (Learning)"],
+        payments: ["Stripe"],
         dataScience: ["Python", "Pandas", "NumPy", "Scikit-Learn"],
-        devOps: ["Docker", "Git", "Linux", "AWS (Learning)"],
-        tools: ["Postman", "Figma", "VS Code", "Jupyter"]
+        devOps: ["Docker", "Git", "Linux"],
+        tools: ["Git", "Postman", "Figma", "VS Code", "Jupyter"]
     },
     
     interests: [
@@ -50,28 +53,36 @@ const profile = {
 <div align="center">
 
 **Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=nodemailer&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Mobile Development**  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Database**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -84,11 +95,18 @@ const profile = {
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**DevOps & Cloud**  
+**Cloud & Services**  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+
+**DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -109,7 +127,7 @@ A comprehensive full-stack restaurant management system with AI-powered features
 
 **Key Features:** Multi-role system (customers, staff, admins, riders) • AI Chef (Google Gemini) for menu recommendations • Real-time order tracking & delivery • Stripe payment integration • Reservation system • Advanced analytics dashboard • Stock management • Cloudinary image hosting
 
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, JWT, Stripe, Cloudinary, Google Gemini API
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Recharts, Node.js, Express.js, MongoDB, Mongoose, JWT, Stripe, Cloudinary, Google Gemini API
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://savoria-bistro.vercel.app/)
 
@@ -136,6 +154,7 @@ Comprehensive wildlife safari management platform with real-time booking, photo 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square)
 ![Room](https://img.shields.io/badge/Room_DB-4285F4?style=flat-square)
 
 Native Android application for comprehensive health tracking with mood journaling, habit tracking, hydration monitoring, and smart reminder system.
@@ -152,8 +171,7 @@ Native Android application for comprehensive health tracking with mood journalin
 
 ### 📈 Profile Overview
 
-<img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osandamadugalle&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="495" />
 
 ### 💻 Most Used Languages
 
