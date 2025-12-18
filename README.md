@@ -61,7 +61,6 @@ Sri Lanka Institute of Information Technology (SLIIT) | 2023 - Present
 
 **Tools & Technologies**  
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-![ImgBB](https://img.shields.io/badge/ImgBB-00A8E8?style=for-the-badge&logo=image&logoColor=white)
 ![EmailJS](https://img.shields.io/badge/EmailJS-0078D4?style=for-the-badge&logo=gmail&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
