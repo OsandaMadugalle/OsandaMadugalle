@@ -2,13 +2,14 @@
 
 # Osanda Madugalle
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+App+Developer;Data+Science+Enthusiast;Cloud+%26+DevOps+Learner" alt="Typing SVG" />
+**Data Science Undergraduate | Full-Stack Developer | Machine Learning Enthusiast**
 
-### Building scalable, data-driven solutions
+Building data-driven solutions with modern technologies
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-osandamadugalle.me-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://osandamadugalle.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osandamadugalle)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osandamadugalle@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94705531088)
 
 </div>
 
@@ -16,97 +17,68 @@
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer specializing in building scalable web applications and native Android solutions. Currently expanding expertise in Data Science and DevOps to deliver comprehensive, end-to-end technical solutions.
+Full-Stack Developer from Kandy, Sri Lanka 🇱🇰, specializing in building scalable web applications and native Android solutions. Passionate about creating production-ready applications with clean architecture, user-centric design, and modern best practices.
 
-```javascript
-const profile = {
-    location: "Sri Lanka 🇱🇰",
-    role: "Full-Stack Developer",
-    focus: ["Web Development", "Mobile Apps", "Data Science", "Cloud & DevOps"],
-    
-    techStack: {
-        languages: ["TypeScript", "JavaScript", "Java", "Python", "Kotlin", "PHP", "C++"],
-        frontend: ["React", "Vite", "Tailwind CSS", "Recharts", "Framer Motion", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express.js", "Mongoose", "JWT", "Nodemailer", "PHP", "Java", "Spring Boot"],
-        mobile: ["Android Studio", "Native Android Development", "Kotlin"],
-        database: ["MongoDB", "MySQL", "MS SQL Server"],
-        cloud: ["Cloudinary", "Google Gemini API", "AWS (Learning)"],
-        payments: ["Stripe"],
-        dataScience: ["Python", "Pandas", "NumPy", "Scikit-Learn"],
-        devOps: ["Docker", "Git", "Linux"],
-        tools: ["Git", "Postman", "Figma", "VS Code", "Jupyter"]
-    },
-    
-    interests: [
-        "Building production-ready applications",
-        "Machine Learning & AI integration",
-        "Cloud architecture & containerization",
-        "Responsive UI/UX design"
-    ]
-};
-```
+**Motto:** *Code. Create. Connect.*
 
 ---
 
-## 🛠️ Technical Skills
+## 🎓 Education
+
+**BSc (Hons) in Information Technology** - Specializing in Data Science  
+Sri Lanka Institute of Information Technology (SLIIT) | 2023 - Present
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)
+**Web Development**  
+![MERN Stack](https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=nodemailer&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Mobile Development**  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Database**  
+**Database Management**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Data Science & ML**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Cloud & Services**  
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Tools & Technologies**  
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![ImgBB](https://img.shields.io/badge/ImgBB-00A8E8?style=for-the-badge&logo=image&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-0078D4?style=for-the-badge&logo=gmail&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Mobile Development**  
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+**Other**  
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-22B573?style=for-the-badge&logo=minutemailer&logoColor=white)
+
+**Cloud**  
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![ImgBB](https://img.shields.io/badge/ImgBB-00A8E8?style=for-the-badge&logo=image&logoColor=white)
 
 </div>
 
@@ -114,7 +86,7 @@ const profile = {
 
 ## 🚀 Featured Projects
 
-### 🍽️ [Savoria Bistro](https://github.com/OsandaMadugalle/savoria-bistro) - AI-Powered Restaurant Management Platform
+### 🍽️ [Savoria Bistro](https://github.com/OsandaMadugalle/savoria-bistro) - AI-Powered Restaurant Management
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -123,45 +95,71 @@ const profile = {
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google)
 
-A comprehensive full-stack restaurant management system with AI-powered features, multi-role support, and real-time operations. Features Google Gemini AI Chef for personalized menu recommendations and dietary assistance, secure payment processing, and advanced analytics dashboard.
+A comprehensive full-stack restaurant management system featuring Google Gemini AI Chef for personalized menu recommendations and dietary assistance. Includes multi-role support (customers, staff, admins, riders), real-time order tracking, secure Stripe payment integration, reservation system, loyalty programs, and advanced analytics dashboard.
 
-**Key Features:** Multi-role system (customers, staff, admins, riders) • AI Chef (Google Gemini) for menu recommendations • Real-time order tracking & delivery • Stripe payment integration • Reservation system • Advanced analytics dashboard • Stock management • Cloudinary image hosting
+**Key Features:**
+- AI Chef powered by Google Gemini API for menu recommendations
+- Multi-role system with 6 different user types
+- Real-time order tracking and delivery management
+- Secure payment processing with Stripe
+- Stock management with automated alerts
+- Comprehensive admin analytics and reporting
+- Email verification with OTP codes
+- Loyalty program with points and tiers
 
-**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Recharts, Node.js, Express.js, MongoDB, Mongoose, JWT, Stripe, Cloudinary, Google Gemini API
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, Mongoose, JWT, Stripe, Cloudinary, Google Gemini API, Nodemailer, Recharts
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://savoria-bistro.vercel.app/)
+[![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsandaMadugalle/savoria-bistro)
+[![Video Demo](https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xezkJRdqxog)
 
 ---
 
-### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) - Wildlife Safari Management System
+### 🌿 [WildLanka](https://github.com/OsandaMadugalle/WildLanka) - Wildlife Safari Management
 
 ![MERN](https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square)
 ![EmailJS](https://img.shields.io/badge/EmailJS-0078D4?style=flat-square)
-![ImgBB](https://img.shields.io/badge/ImgBB-00A8E8?style=flat-square)
 
-Comprehensive wildlife safari management platform with real-time booking, photo marketplace with live bidding system, AI-powered trilingual chatbot, and secure payment processing via Stripe integration. Features EmailJS for email notifications and ImgBB for image hosting.
+Comprehensive wildlife safari management platform designed for Sri Lankan wildlife tourism. Features real-time booking system, photo marketplace with live bidding, AI-powered trilingual chatbot (English, Sinhala, Tamil), secure payment processing, and role-based dashboards for admins, drivers, and tour guides.
 
-**Key Features:** Real-time booking system • Photo marketplace with bidding • AI trilingual chatbot • Payment integration • Email notifications • Image hosting • Analytics dashboard
+**Key Features:**
+- Smart booking system with real-time availability
+- Wildlife photo marketplace with real-time bidding
+- AI trilingual chatbot for customer support
+- Fleet and staff management modules
+- Multi-channel automated notifications
+- Wildlife calendar and conservation tracking
+
+**My Role:** Project Leader for a team of five, led backend architecture design, developed the real-time bidding system, integrated Stripe payment gateway, and contributed to frontend development.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://wild-lanka.vercel.app)
 [![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsandaMadugalle/WildLanka)
+[![Video Demo](https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/i9OKhGyK2NQ)
 
 ---
 
 ### 💪 [Wellness Pro](https://github.com/OsandaMadugalle/Wellness_Pro) - Daily Wellness Tracker
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square)
 ![Room](https://img.shields.io/badge/Room_DB-4285F4?style=flat-square)
 
-Native Android application for comprehensive health tracking with mood journaling, habit tracking, hydration monitoring, and smart reminder system.
+Native Android application for comprehensive health tracking built with Kotlin and Room database. Features mood journaling with history, habit tracker with streaks, hydration monitor, step counter, smart reminders, and progress analytics. Includes shake-to-log mood and dark/light mode options.
 
-**Key Features:** Mood journal with history • Habit tracker with streaks • Hydration monitor • Smart reminders • Progress analytics
+**Key Features:**
+- Mood journal with complete history tracking
+- Habit tracker with streak counting
+- Hydration monitor with daily goals
+- Step counter integration
+- Smart reminder system
+- Progress analytics dashboard
+- Shake gesture to log mood
+- Dark/Light mode support
 
 [![Repository](https://img.shields.io/badge/GitHub-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OsandaMadugalle/Wellness_Pro)
+[![Video Demo](https://img.shields.io/badge/YouTube-Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/KCDRsz5revQ)
 
 ---
 
@@ -169,105 +167,34 @@ Native Android application for comprehensive health tracking with mood journalin
 
 <div align="center">
 
-### 📈 Profile Overview
-
-<img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="495" />
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandamadugalle&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" width="450" />
-
-### 🏆 GitHub Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osandamadugalle&theme=tokyonight" alt="GitHub Profile Summary" width="95%" />
-
-### 📊 Contribution Stats
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osandamadugalle&theme=tokyonight" alt="Productive Time" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osandamadugalle&theme=tokyonight" alt="Stats" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=osandamadugalle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osandamadugalle&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
 
 </div>
 
 ---
 
-## 🎓 Certifications & Learning
+## 🎓 Continuous Learning
 
 <div align="center">
 
-### 🏅 Professional Certifications
+[![View Certifications](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/osandamadugalle)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/users/osandamadugalle/)
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5)
 
-<table>
-<tr>
-<td align="center" width="200">
-<a href="https://www.credly.com/badges/35b5059e-5ba2-43a3-8062-c14dbfd5c818">
-  <img src="https://res.cloudinary.com/dmsztvvci/image/upload/v1763983325/badge-well-architected-proficient_udu8fj.png" alt="AWS Well-Architected Proficient" width="120">
-  <br/>
-  <sub><b>AWS Well-Architected<br/>Proficient</b></sub>
-</a>
-</td>
-</tr>
-</table>
-
-[![View All Badges](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/osandamadugalle)
+</div>
 
 ---
 
-### 📚 Continuous Learning Platforms
+## 🎯 What I Bring
 
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://learn.microsoft.com/users/osandamadugalle/">
-<img src="https://img.icons8.com/fluency/96/000000/microsoft.png" alt="Microsoft Learn" width="80"/>
-<br/>
-<b>Microsoft Learn</b>
-<br/>
-<sub>Cloud Computing & Azure Services</sub>
-</a>
-<br/><br/>
-<a href="https://learn.microsoft.com/users/osandamadugalle/">
-<img src="https://img.shields.io/badge/Profile-Visit-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn Profile"/>
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5">
-<img src="https://img.icons8.com/color/96/000000/google-cloud.png" alt="Google Cloud" width="80"/>
-<br/>
-<b>Google Cloud Skills Boost</b>
-<br/>
-<sub>GCP & Cloud Technologies</sub>
-</a>
-<br/><br/>
-<a href="https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5">
-<img src="https://img.shields.io/badge/Profile-Visit-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Profile"/>
-</a>
-</td>
-</tr>
-</table>
+**Clean Architecture** - Scalable, maintainable codebases using MVVM/MVC patterns, separation of concerns, and SOLID principles
 
-### 🎯 Learning Focus Areas
+**User-Centric Design** - Responsive, accessible, and intuitive interfaces that solve real problems and delight users
 
-```mermaid
-mindmap
-  root((Learning Journey))
-    Cloud & DevOps
-      AWS Solutions
-      Azure Services
-      GCP Platform
-      Docker & Kubernetes
-    Data Science
-      Machine Learning
-      Deep Learning
-      Data Analytics
-      AI Integration
-    Full-Stack Development
-      Advanced React Patterns
-      Microservices Architecture
-      System Design
-      Performance Optimization
-```
+**Agile Development** - Thriving in fast-paced environments through iterative development, CI/CD, and rapid prototyping
 
-</div>
+**Continuous Learning** - Staying current with latest technologies and best practices, always seeking new challenges
 
 ---
 
@@ -280,14 +207,9 @@ mindmap
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://osandamadugalle.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/osandamadugalle)
 [![Email](https://img.shields.io/badge/Email-osandamadugalle@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:osandamadugalle@gmail.com)
-
-</div>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/94705531088)
 
 ---
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer)
 
 **⭐ Star my repositories if you find them useful!**
 
