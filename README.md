@@ -17,7 +17,7 @@ Building data-driven solutions with modern technologies
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer from Kandy, Sri Lanka 🇱🇰, specializing in building scalable web applications and native Android solutions. Passionate about creating production-ready applications with clean architecture, user-centric design, and modern best practices.
+Undergraduate at SLIIT specializing in Data Science, with a strong passion for full‑stack development. Skilled in programming and databases, and building growing expertise in machine learning, data visualization, and predictive analytics. I’m driven to transform data into impactful solutions that inspire smarter decisions and real‑world innovation.
 
 **Motto:** *Code. Create. Connect.*
 
@@ -210,6 +210,6 @@ Native Android application for comprehensive health tracking built with Kotlin a
 
 ---
 
-**⭐ Star my repositories if you find them useful!**
+**© 2026 Osanda Madugalle**
 
 </div>
