@@ -180,6 +180,7 @@ Native Android application for comprehensive health tracking built with Kotlin a
 [![View Certifications](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/osandamadugalle)
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/users/osandamadugalle/)
 [![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud-Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/723b25a3-cabd-40d5-86e4-2884fcf383e5)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/osandamadugalle)
 
 </div>
 
