@@ -2,7 +2,7 @@
 
 # Osanda Madugalle
 
-**Data Science Undergraduate | Full-Stack Developer | Machine Learning Enthusiast**
+**Data Science Undergraduate | Aspiring MLOps Engineer**
 
 Building data-driven solutions with modern technologies
 
@@ -17,7 +17,7 @@ Building data-driven solutions with modern technologies
 
 ## 👨‍💻 About Me
 
-Undergraduate at SLIIT specializing in Data Science, with a strong passion for full‑stack development. Skilled in programming and databases, and building growing expertise in machine learning, data visualization, and predictive analytics. I’m driven to transform data into impactful solutions that inspire smarter decisions and real‑world innovation.
+Undergraduate at SLIIT (3rd Year) specializing in Data Science, with a strong passion for full‑stack development. Skilled in programming and databases, and building growing expertise in machine learning, data visualization, and predictive analytics. I’m driven to transform data into impactful solutions that inspire smarter decisions and real‑world innovation.
 
 **Motto:** *Code. Create. Connect.*
 
