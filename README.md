@@ -2,7 +2,7 @@
 
 # Osanda Madugalle
 
-**Data Science Undergraduate | Aspiring MLOps & AI Engineer | Full Stack Developer**
+**Data Science Undergraduate | Aspiring MLOps & AI Engineer**
 
 Building data-driven solutions with modern technologies
 
