@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Osanda Madugalle
 
-**Data Science Undergraduate | Aspiring MLOps & AI Engineer**
+**Data Science Undergraduate | MLOps & AI Enthusiast**
 
 *Bridging the gap between robust software engineering and data-driven intelligence.*
 
